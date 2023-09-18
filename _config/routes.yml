@@ -1,0 +1,7 @@
+---
+Name: contactpersonroutes
+
+---
+SilverStripe\Control\Director:
+  rules:
+    'contactperson//$Action/$ID/$OtherID': 'PageController'

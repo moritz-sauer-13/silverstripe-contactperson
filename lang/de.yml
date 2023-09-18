@@ -1,0 +1,9 @@
+de:
+  ContactPerson:
+    YOURCONTACTPERSON: 'Ihr Ansprechpartner'
+    SEARCHPLACEHOLDER: 'Wen suchen Sie?'
+    CONTACTPERSON: 'Ansprechpartner'
+    DEFAULTCONTACTPERSON: 'Standard-Ansprechpartner'
+    SELECTCONTACTPERSON: 'Ansprechpartner auswählen'
+    SELECTDEFAULTCONTACTPERSON: 'Standard-Ansprechpartner auswählen'
+    SHOWCONTACTPERSON: 'Ansprechpartner anzeigen?'
